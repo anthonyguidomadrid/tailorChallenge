@@ -1,0 +1,16 @@
+.card {
+    margin-bottom: 25px;
+    border: none;
+    border-radius: 0.25rem;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.card img {
+    height: 150px;
+    object-fit: cover;
+}
+
+.neighborhood {
+    color: #bd2333;
+    text-transform: uppercase;
+}

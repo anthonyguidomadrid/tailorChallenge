@@ -1,0 +1,28 @@
+.menu img {
+    width: 100px;
+    height: auto;
+}
+
+.menu a {
+    color: white !important;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 0 15px;
+}
+
+.menu {
+    padding: 0 25px;
+    margin-bottom: 25px;
+    background-color: #bd2333 !important;
+}
+
+@media only screen and (min-width: 990px) {
+    .signup {
+        border: 1px solid #ffffff;
+    }
+
+    .signup:hover {
+        background-color: #ffffff;
+        color: #bd2333 !important;
+    }
+}
